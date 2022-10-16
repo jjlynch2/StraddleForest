@@ -1,6 +1,8 @@
 ## StraddleForest 0.0.1
 Just uploading this to store the code. This isn't working yet. I'll get back to finishing it eventually.
 
+Multi-core Julia platform for storing data from TD Aperitrade API in QuestDB for random forest modeling of options strategies.
+
 #Authenticate to TDAmeritrade API
 ```javascript
 TD_auth(true) #true to force access token refresh
